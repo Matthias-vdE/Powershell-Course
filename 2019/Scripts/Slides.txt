@@ -1,0 +1,24 @@
+(0 - Getting to know each other)
+1 - Introduction
+2 - Meet Powershell
+3 - Using the help system (LAB)
+4 - Running commands (LAB)
+5 - Working with providers (LAB)
+    # Break #
+6 - The pipeline (LAB)
+7 - Adding commands (LAB)
+8 - Objects (LAB)
+9 - Formatting (LAB)
+10 - Filtering and comparing (LAB)
+    # Lunch Break #
+11 - Remote control (LAB)
+12 - Multitasking (LAB)
+13 - Security
+14 - Variables (LAB)
+15 - Input and output (LAB)
+    # Break #
+16 - Scripting (LAB)
+17 - Programming (LAB)
+18 - Toolmaking and GUIs
+19 - Tips & Tricks
+(20 - End)
