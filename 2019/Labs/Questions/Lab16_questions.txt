@@ -1,0 +1,23 @@
+1. Import data by running the ImportToAD.ps1 script.
+
+2. Get user data from AD use Out-GridView
+
+3. Create OU AXXESTRAINEE
+
+4. use filter to find users with name Cheyenne
+
+5. Create Global Group Cheyenne and add all Cheyenne's in it. Place these in OU AXXESTRAINEE
+
+6. Create Global Group Carlie and add all Carlie's in it. Place these in OU AXXESTRAINEE
+
+7. Create Group Sales and add groups Cheyenne and Carlie into it. Place these in OU AXXESTRAINEE
+
+8. Show the group members of Sales and its nested groups
+
+9. Find users with Phone number starting with 387 and show then in a table with Name and Telephone number
+
+10. Change password of all users starting with a Z 
+
+11. Create users from list of 5 self invented users 
+
+12. Get users and create email adress with first and last name
